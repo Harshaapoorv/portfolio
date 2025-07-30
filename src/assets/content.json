@@ -1,0 +1,67 @@
+{
+  "hero": {
+    "name": "Harsha Apoorv",
+    "tagline": "I build thoughtful, eye-pleasing and functional mobile & web applications — currently applying for my Master’s and exploring the world of design and development"
+  },
+  "about": {
+    "title": "About me",
+    "paragraphs": [
+      "Hi, I’m Harsha Apoorv — a passionate Mobile Application Developer at Tata Consultancy Services, where I build cross-platform apps that blend functionality with pixel-perfect design using React Native.",
+      "My journey with computers began as a curious kid endlessly fascinated by how things work — and that curiosity naturally evolved into a love for programming. Over the years, I’ve honed a deep appreciation for clean, scalable code and thoughtful user experiences.",
+      "Though I primarily specialize in mobile development, my interests span across Python (my not-so-secret favorite 🐍) and I’m increasingly drawn to the world of AI and Machine Learning. I'm always open to new ideas, collaborations, and creative challenges in those areas too.",
+      "When I’m not coding, you might find me sketching ideas for new apps, experimenting with tech tools, or just enjoying the process of learning something new."
+    ],
+    "skills": [
+      { "image": "py", "text": "Python" },
+      { "image": "c", "text": "C" },
+      { "image": "cpp", "text": "C++" },
+      { "image": "java", "text": "Java" },
+      { "image": "html", "text": "HTML" },
+      { "image": "css", "text": "CSS" },
+      { "image": "js", "text": "Java Script" },
+      { "image": "ts", "text": "Type Script" },
+      { "image": "react", "text": "React" },
+      { "image": "rn", "text": "React Native" },
+      { "image": "expo", "text": "Expo" },
+      { "image": "redux", "text": "Redux" },
+      { "image": "sql", "text": "SQL" },
+      { "image": "figma", "text": "Figma" },
+      { "image": "git", "text": "Git" },
+      { "image": "vs", "text": "VS Code" },
+      { "image": "postman", "text": "Postman" },
+      { "image": "nodejs", "text": "Node JS" }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "subTitle": "Let's Connect",
+    "text": "Whether it’s a freelance project, collaboration, or just a friendly hello — I’d love to hear from you!!!",
+    "socials": [
+      {
+        "image": "sololearn",
+        "link": "https://www.sololearn.com/en/profile/15201686"
+      },
+      {
+        "image": "codingame",
+        "link": "https://www.codingame.com/profile/bf1231e643c9a1b656582be9f2c8aa978740475"
+      },
+      {
+        "image": "hackerrank",
+        "link": "https://www.hackerrank.com/profile/harshaapoorv"
+      },
+      {
+        "image": "github",
+        "link": "https://github.com/Harshaapoorv"
+      },
+      {
+        "image": "gmail",
+        "link": "mailto:harshaapoorva164@gmail.com"
+      },
+      {
+        "image": "linkedin",
+        "link": "https://www.linkedin.com/in/harshaapoorv/"
+      }
+    ],
+    "footer": "© 2025 Harsha Apoorv"
+  }
+}

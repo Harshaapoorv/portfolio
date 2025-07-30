@@ -9,7 +9,7 @@ const Education = ({ setActiveSection }) => {
       }}
       threshold={0.4}
     >
-      <section id="education" className="min-h-screen bg-[#F5F5F4]"></section>
+      <section id="education" className="min-h-screen bg-[#e7ece8]"></section>
     </InView>
   );
 };

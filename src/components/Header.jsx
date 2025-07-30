@@ -14,11 +14,11 @@ const Header = ({ activeSection }) => {
         <a href="#about" className={linkClasses("about")}>
           About
         </a>
-        <a href="#education" className={linkClasses("education")}>
-          Education
-        </a>
         <a href="#experience" className={linkClasses("experience")}>
           Experience
+        </a>
+        <a href="#education" className={linkClasses("education")}>
+          Education
         </a>
         <a href="#projects" className={linkClasses("projects")}>
           Projects

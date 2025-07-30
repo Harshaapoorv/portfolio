@@ -9,7 +9,7 @@ const Experience = ({ setActiveSection }) => {
       }}
       threshold={0.4}
     >
-      <section id="experience" className="min-h-screen bg-[#e7ece8]"></section>
+      <section id="experience" className="min-h-screen bg-[#f5f5f4]"></section>
     </InView>
   );
 };

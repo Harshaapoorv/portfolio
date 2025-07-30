@@ -15,8 +15,8 @@ function App() {
       <Header activeSection={activeSection} />
       <Hero setActiveSection={setActiveSection} />
       <About setActiveSection={setActiveSection} />
-      <Education setActiveSection={setActiveSection} />
       <Experience setActiveSection={setActiveSection} />
+      <Education setActiveSection={setActiveSection} />
       <Projects setActiveSection={setActiveSection} />
       <Contact setActiveSection={setActiveSection} />
     </div>

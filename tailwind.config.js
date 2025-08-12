@@ -10,6 +10,7 @@ export default {
       animation: {
         "fade-in-up": "fadeInUp 0.8s ease-out forwards",
         scroll: "scroll 20s linear infinite",
+        spinOnce: "spin360 0.7s ease-in-out forwards",
       },
       keyframes: {
         fadeInUp: {
@@ -19,6 +20,10 @@ export default {
         scroll: {
           "0%": { transform: "translateX(0)" },
           "100%": { transform: "translateX(-50%)" }, // Adjust based on total width
+        },
+        spin360: {
+          "0%": { transform: "rotate(0deg)" },
+          "100%": { transform: "rotate(360deg)" },
         },
       },
     },

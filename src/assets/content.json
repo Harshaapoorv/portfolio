@@ -150,6 +150,98 @@
       }
     ]
   },
+  "projects": {
+    "title": "Projects",
+    "projects": [
+      {
+        "id": 1,
+        "image": "/projects/cyber.png",
+        "title": "Cyberbullying Detection",
+        "summary": "A classification algorithm that classifies a comment whether it is considered cyber bullying or not.",
+        "tags": ["Python", "Machine Learning"],
+        "links": [
+          {
+            "id": 1,
+            "text": "Live Demo",
+            "link": "https://tinyurl.com/cyber-bullying-report"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "image": "/projects/nest.jpg",
+        "title": "Nest Pensions Mobile App",
+        "summary": "A mobile app for users of Nest to navigate their retirement and pensions journey.",
+        "tags": ["React Native", "JavaScript"],
+        "links": [
+          {
+            "id": 1,
+            "text": "Live Demo",
+            "link": "https://www.nestpensions.org.uk/schemeweb/nest/app.html"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "image": "/projects/duyu.jpg",
+        "title": "DuYu Mobile App",
+        "summary": "A cross-platform mobile app for goal based investments and investment tracking.",
+        "tags": ["React Native", "JavaScript"],
+        "links": [
+          {
+            "id": 1,
+            "text": "Live Demo",
+            "link": "https://duyu.in"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "image": "/projects/jtgeats.png",
+        "title": "Food Menu Application",
+        "summary": "An application for food options and menus with clean and visually appealing designs.",
+        "tags": ["HTML/CSS", "JavaScript"],
+        "links": [
+          {
+            "id": 1,
+            "text": "Live Demo",
+            "link": "https://tinyurl.com/cyber-bullying-report"
+          },
+          {
+            "id": 2,
+            "text": "GitHub",
+            "link": "https://github.com/Harshaapoorv/Food-Delivery"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "image": "/projects/portfolio.png",
+        "title": "Professional Portfolio",
+        "summary": "A professional portfolio implemented with the help of React and Tailwind",
+        "tags": ["React + Tailwind", "JavaScript"],
+        "links": [
+          {
+            "id": 1,
+            "text": "Live Demo",
+            "link": "https://tinyurl.com/cyber-bullying-report"
+          },
+          {
+            "id": 2,
+            "text": "GitHub",
+            "link": "https://github.com/Harshaapoorv/my-portfolio"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "image": "/projects/Github.png",
+        "title": "View More",
+        "summary": "Explore more on GitHub",
+        "link": "https://github.com/Harshaapoorv"
+      }
+    ]
+  },
   "contact": {
     "title": "Contact",
     "subTitle": "Let's Connect",

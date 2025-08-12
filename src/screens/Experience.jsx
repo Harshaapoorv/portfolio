@@ -33,7 +33,7 @@ const Experience = ({ setActiveSection }) => {
               />
 
               {/* Job Card */}
-              <section className="max-w-full flex flex-col p-4 bg-[#e7ece8] left-curve text-left w-full">
+              <section className="max-w-full flex flex-col p-4 bg-[#e7ece8] left-curve text-left w-full shadow-sm hover:shadow-xl transition transform transition duration-300">
                 <h4 className="text-xl md:text-xl font-bold">{obj.title}</h4>
                 <a
                   href={obj.companyLinkedIn}

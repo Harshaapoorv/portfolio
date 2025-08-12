@@ -65,11 +65,20 @@ a {
 }
 
 .about,
-.contact {
+.contact,
+.education {
   width: 100%;
   justify-content: center;
   align-items: center;
   background-color: #e7ece8;
+  gap: 24px;
+  padding: 24px 16px;
+}
+
+.experience {
+  width: 100%;
+  justify-content: center;
+  align-items: center;
   gap: 24px;
   padding: 24px 16px;
 }
@@ -154,4 +163,25 @@ a {
   background-color: rgb(245, 245, 244);
   justify-self: flex-end;
   align-self: flex-end;
+}
+
+.educationCarousal {
+  align-items: center;
+  justify-content: center;
+}
+
+.educationLogo {
+  border-radius: 48px;
+}
+
+.left-curve {
+  border-top-right-radius: 24px;
+  border-bottom-left-radius: 24px;
+  border-bottom-right-radius: 24px;
+}
+
+.right-curve {
+  border-top-left-radius: 24px;
+  border-bottom-left-radius: 24px;
+  border-bottom-right-radius: 24px;
 }

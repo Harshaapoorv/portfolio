@@ -13,14 +13,14 @@ const Hero = ({ setActiveSection }) => {
     >
       <main
         id="hero"
-        className="flex flex-row justify-space-between hero shadow-md"
+        className="flex flex-row justify-space-between hero shadow-md px-4"
       >
         <section className="flex flex-col justify-center min-h-screen text-left px-4 animate-fade-in-up">
           <h1 className="text-4xl md:text-5xl font-extrabold text-gray-900 mb-4">{`Hi, I'm ${pageConfig.name}`}</h1>
           <p className="text-lg text-gray-700 max-w-xl mb-6">{`${pageConfig.tagline}`}</p>
           <section className="buttons">
             <a
-              href="/resume.pdf"
+              href="/pdfs/resume.pdf"
               download={"Harsha_Apoorv_Resume.pdf"}
               className="text-white font-medium button hover:bg-[#617460] transition-all duration-200"
             >

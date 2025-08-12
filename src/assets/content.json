@@ -32,6 +32,124 @@
       { "image": "nodejs", "text": "Node JS" }
     ]
   },
+  "experience": {
+    "title": "Experience",
+    "jobs": [
+      {
+        "id": 1,
+        "title": "Web Developer Intern",
+        "name": "Black Bucks Pvt. Ltd.",
+        "time": "Feb 2022 - Mar 2022",
+        "logo": "bb",
+        "companyLinkedIn": "https://www.linkedin.com/company/blackbucks/posts/?feedView=all",
+        "responsibilities": [
+          "Designed and implemented a responsive UI for a Resume Builder platform, enabling college students to create fully customizable resumes with ease.",
+          "Participated in weekly team meetings to discuss development progress, align priorities, and address technical challenges.",
+          "Prepared and delivered status reports outlining completed tasks, upcoming goals, and blockers, gaining hands-on experience in professional workplace communication."
+        ],
+        "tech": ["HTML 5", "CSS 3", "JavaScript"]
+      },
+      {
+        "id": 2,
+        "title": "React Native Developer",
+        "name": "DuYu",
+        "time": "Dec 2024 - May 2025",
+        "logo": "duyu",
+        "companyLinkedIn": "https://www.linkedin.com/company/duyu-in/posts/?feedView=all",
+        "responsibilities": [
+          "Independently developed a feature-rich cross-platform app from concept to deployment, including design, coding, and testing.",
+          "Implemented secure persistent login, OTP authentication, chatbot assistance, and animated content displays for enhanced UX.",
+          "Optimized navigation, performance, and responsiveness using React Native animations and layout techniques."
+        ],
+        "tech": ["React Native", "Android/iOS", "JavaScript"]
+      },
+      {
+        "id": 3,
+        "title": "Mobile Application Developer",
+        "name": "Tata Consultancy Services",
+        "time": "June 2023 - Present",
+        "logo": "tcs",
+        "companyLinkedIn": "https://www.linkedin.com/company/tata-consultancy-services/posts/?feedView=all",
+        "responsibilities": [
+          "Delivered a mobile-first pensions dashboard with pixel-perfect UI in React Native, driving a 40% boost in user satisfaction after migrating from a legacy web platform.",
+          "Built custom reusable components and integrated Redux Toolkit + RTK Query for fast, responsive state and API management.",
+          "Launched 4 production releases on Apple App Store & Google Play, achieving 100k+ downloads and 5k+ daily active users."
+        ],
+        "tech": ["React Native", "Android/iOS", "JavaScript"]
+      }
+    ]
+  },
+  "education": {
+    "title": "Education",
+    "subTitle": "Here’s a glimpse into my educational background and my extracurricular activities",
+    "education": [
+      {
+        "image": "cbse",
+        "name": "Vasavi ideal public school 🏫",
+        "year": "2016-17",
+        "type": "High School",
+        "gpa": "10.0 CGPA",
+        "stream": "CBSE",
+        "pdf": "highschool_marksheet"
+      },
+      {
+        "image": "tirumala",
+        "name": "Tirumala Junior Kalasala 🏫",
+        "year": "2017-19",
+        "type": "Pre University",
+        "gpa": "10.0 CGPA",
+        "stream": "Maths, Physics, Chemistry",
+        "pdf": "intermediate_marksheet"
+      },
+      {
+        "image": "srkr",
+        "name": "SRKR Engineering College 🎓",
+        "year": "2019-23",
+        "type": "Under Graduation",
+        "gpa": "8.13 CGPA",
+        "stream": "Computer Science & Engineering",
+        "pdf": "btech_transcript"
+      }
+    ],
+    "nextTitle": "Extracurriculars",
+    "curriculars": [
+      { "image": "ace", "text": "Executive Body Member" },
+      { "image": "hw", "text": "Helping Wings" },
+      { "image": "bb", "text": "Web Developer Intern" },
+      { "image": "foot", "text": "Soccer Captain" },
+      {
+        "image": "basket",
+        "text": "Basketball Captain"
+      }
+    ],
+    "arr": [
+      {
+        "images": ["ace.svg", "ace1.svg"],
+        "title": "Executive Body Member",
+        "desc": "As an Executive Body Member at ACE, I coordinated events, led teams of volunteers, and facilitated successful hackathons & mock interviews for the students of our department. This experience strengthened my skills in leadership, team communication, and organizational planning."
+      },
+      {
+        "images": ["hw.svg", "hw1.svg"],
+        "title": "Helping Wings",
+        "desc": "Being awarded the title of Helping Wings — the first-ever in the organization's history — came with greater responsibility. It enabled me to collaborate effectively across multiple internal teams and also gave me the opportunity to participate in the recruitment of new members. This experience significantly strengthened my leadership, coordination, and team-building skills."
+      },
+      {
+        "images": ["bb.svg"],
+        "title": "Web Developer Intern",
+        "desc": "As a Web Developer Intern at Blackbucks Pvt. Ltd., I developed an ATS-optimized resume builder that empowered over 500 users to create customized resumes. Leveraging JavaScript, HTML, and CSS, I improved development efficiency by 50% through modular code and streamlined UI components."
+      },
+      {
+        "images": ["foot.svg", "foot1.svg"],
+        "title": "Soccer Captain",
+        "desc": "As the captain of our college soccer team in multiple Inter-Zonal tournaments, and the first winning captain of our departmental team, I gained valuable experience in leadership, strategy, and team dynamics. These experiences taught me discipline, resilience, and the importance of collaboration under pressure."
+      },
+      {
+        "images": ["basket.svg"],
+        "title": "Basketball Captain",
+        "desc": "As a core player in our college basketball team and the captain of our departmental team, I led our squad to multiple Inter-College tournament finals. While we narrowly missed the championship on a few occasions, these experiences refined my ability to stay focused under pressure, support team cohesion, and demonstrate perseverance through setbacks."
+      }
+    ]
+  },
   "contact": {
     "title": "Contact",
     "subTitle": "Let's Connect",
